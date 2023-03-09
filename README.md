@@ -14,5 +14,8 @@ git rm --cached /path/
 rm -rf /path/
 ```
 
-![](https://i.imgur.com/XIFXQw5.jpg)
+![](https://i.imgur.com/QFKPdMo.png)
 
+<!--
+![](https://i.imgur.com/XIFXQw5.jpg)
+-->
